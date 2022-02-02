@@ -8,7 +8,7 @@ This repository contains detailed results and code for the paper [Flow shop sche
 1.  [Best known values and CPLEX results](results/bkv.csv).
 2.  [Results of all individual runs](results/run.csv).
 
-Tables 2-6 can reproduced by running 
+Tables 2-6 can reproduced by running the R script [process.R](results/process.R).
 
 ## Instances
 
