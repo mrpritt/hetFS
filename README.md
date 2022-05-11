@@ -1,6 +1,6 @@
 # Flow shop scheduling with heterogeneous workers
 
-This repository contains detailed results and code for the paper [Flow shop scheduling with heterogeneous workers](http://dx.doi.org/10.1016/j.ejor.2014.02.012).
+This repository contains detailed results and code for the paper [Benavides, Ritt, Miralles, Flow shop scheduling with heterogeneous workers, Eur. J. Oper. Res. 237(2), 2014](http://dx.doi.org/10.1016/j.ejor.2014.02.012).
 
 ## Detailed results
 
