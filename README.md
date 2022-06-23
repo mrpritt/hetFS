@@ -27,7 +27,7 @@ g++ -O2 --static --fast-math -std=c++17 -DNDEBUG ss4hjs.cpp -o ss4hjs
 @Article{Benavides.etal/2014,
   author = 	 {Alexander J. Benavides and Marcus Ritt and Cristóbal Miralles},
   title = 	 {Flow shop scheduling with heterogeneous workers},
-  journal = 	{Eur. J. Oper. Res.},
+  journal =  {Eur. J. Oper. Res.},
   year = 	 {2014},
   volume =	 {237},
   number =	 {2},
